@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.ce19d75f.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.ce19d75f.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.69b9e3dc.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.69b9e3dc.js.map",
-    "static/js/2.d0bbe4d3.chunk.js": "/react-gh-pages/static/js/2.d0bbe4d3.chunk.js",
-    "static/js/2.d0bbe4d3.chunk.js.map": "/react-gh-pages/static/js/2.d0bbe4d3.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.31c6484957500922bb57b661666acfd9.js": "/react-gh-pages/precache-manifest.31c6484957500922bb57b661666acfd9.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d0bbe4d3.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.d0bbe4d3.chunk.js.LICENSE.txt"
+    "main.css": "/MyRealTimeObjectDetectionTFJSReact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MyRealTimeObjectDetectionTFJSReact/static/js/main.ce19d75f.chunk.js",
+    "main.js.map": "/MyRealTimeObjectDetectionTFJSReact/static/js/main.ce19d75f.chunk.js.map",
+    "runtime-main.js": "/MyRealTimeObjectDetectionTFJSReact/static/js/runtime-main.195e05a0.js",
+    "runtime-main.js.map": "/MyRealTimeObjectDetectionTFJSReact/static/js/runtime-main.195e05a0.js.map",
+    "static/js/2.d0bbe4d3.chunk.js": "/MyRealTimeObjectDetectionTFJSReact/static/js/2.d0bbe4d3.chunk.js",
+    "static/js/2.d0bbe4d3.chunk.js.map": "/MyRealTimeObjectDetectionTFJSReact/static/js/2.d0bbe4d3.chunk.js.map",
+    "index.html": "/MyRealTimeObjectDetectionTFJSReact/index.html",
+    "precache-manifest.11d293764bc67fe8bedd4646c4d5ce8d.js": "/MyRealTimeObjectDetectionTFJSReact/precache-manifest.11d293764bc67fe8bedd4646c4d5ce8d.js",
+    "service-worker.js": "/MyRealTimeObjectDetectionTFJSReact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/MyRealTimeObjectDetectionTFJSReact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d0bbe4d3.chunk.js.LICENSE.txt": "/MyRealTimeObjectDetectionTFJSReact/static/js/2.d0bbe4d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.69b9e3dc.js",
+    "static/js/runtime-main.195e05a0.js",
     "static/js/2.d0bbe4d3.chunk.js",
     "static/css/main.5f361e03.chunk.css",
     "static/js/main.ce19d75f.chunk.js"
